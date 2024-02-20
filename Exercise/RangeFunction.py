@@ -16,6 +16,6 @@ if x in range(1, 10):
 
 y = 9
 if y in range(0, 100, 2):
-    print(f"{y} is even value")
+    print(f"{y} is even value ")
 else:
     print(f"{y} is not even value")
